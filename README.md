@@ -31,11 +31,13 @@ Run the app:
 	├── ...
 	├── src
 	│   ├── main
-	│   │        └── java
-	│   │             ├── controllers
-	│   │             ├── entities
-	│   │             ├── services
-	│   │             └── repositories
+	│   │    └── java
+	│   │          ├── controllers
+	│   │          ├── entities
+	│   │          ├── services
+	│   │          ├── repositories 
+	│   │          └── Application.java
 	│   └── resources
-	│            └── ...
+	│        └── application.properties
+	├── pom.xml
 	└── ...
