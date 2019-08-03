@@ -3,6 +3,10 @@
 
 This is kind of 'HelloWorld' sample with simple tips to perform spring boot application.
 
+**Table of Contents**
+
+[TOC]
+
 ### Setup environment
 
 - [Java Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/)
