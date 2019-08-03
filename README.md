@@ -32,10 +32,10 @@ Run the app:
 	├── src
 	│   ├── main
 	│   │    └── java
-	│   │          ├── controllers
-	│   │          ├── entities
-	│   │          ├── services
-	│   │          ├── repositories 
+	│   │          ├── controllers         # to be added
+	│   │          ├── entities            # 
+	│   │          ├── services            # 
+	│   │          ├── repositories        #
 	│   │          └── Application.java
 	│   └── resources
 	│        └── application.properties
