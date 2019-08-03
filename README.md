@@ -41,3 +41,15 @@ Run the app:
 	│        └── application.properties
 	├── pom.xml
 	└── ...
+	
+### Spring Data + Hibernate
+Add following dependecies to POM file:
+
+```xml
+<dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+        <version>2.1.6.RELEASE</version>
+</dependency>
+
+```
