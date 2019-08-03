@@ -31,11 +31,11 @@ Run the app:
 	├── ...
 	├── src
 	│   ├── main
-	│            └── java
-	│                    ├── controllers
-	│                    ├── entities
-	│                    ├── services
-	│                    └── repositories
+	│   │        └── java
+	│   │                ├── controllers
+	│   │                ├── entities
+	│   │                ├── services
+	│   │                └── repositories
 	│   └── resources
 	│             └── ...
 	└── ...
