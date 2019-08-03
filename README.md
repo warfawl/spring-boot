@@ -5,7 +5,7 @@ This is kind of 'HelloWorld' sample with simple tips to perform spring boot appl
 
 **Table of Contents**
 
-__TOC__
+[TOC]
 
 ### Setup environment
 
