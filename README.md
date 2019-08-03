@@ -6,7 +6,7 @@ This is kind of 'HelloWorld' sample with simple tips to perform spring boot appl
 ### Setup environment
 
 - [Java Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/)
-- [Intellij Idea Ultimate](https://www.jetbrains.com/idea/download/)
+- [IntelliJ Idea Ultimate](https://www.jetbrains.com/idea/download/)
 - [MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing) (or any other DB you prefer)
 
 ### Create simple app 
