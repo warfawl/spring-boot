@@ -1,5 +1,5 @@
 # Spring boot
-##Running spring boot app with Intellij Idea
+## Running spring boot app with Intellij Idea
 
 This is kind of 'HelloWorld' sample with simple tips to perform spring boot application.
 
